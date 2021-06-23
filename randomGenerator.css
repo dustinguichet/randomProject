@@ -1,6 +1,7 @@
 body{
 	font-family: 'Roboto', sans-serif;
 	color: #000;
+    background-color: orange;
 }
 
 #container{
@@ -16,11 +17,14 @@ body{
 
 #projectDisplay{
 	width:75%;
-	background: #fff;
+	background: whitesmoke;
 	padding:10px;
-	margin:30px auto;
+	margin:40px auto;
 	text-align: center;
-  height:70px;
+    height:25px;
+    border-radius: 15px;
+    border: #045;
+    border-style: outset;
 }
 #buttonContainer{
 	width: 100%;
@@ -48,11 +52,6 @@ body{
 }
 #projectButton{
 	display: inline-block;
-}
-#quoteGenius{
-	font-style: italic;
-	font-weight: 600;
-	text-align: center;
 }
 
 
