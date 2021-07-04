@@ -24,7 +24,7 @@ let projects = [
     'Clock',
     'Tip Calculator',
     'Interactive Map',
-    'Tik-Tak-Toe',
+    'Tic-Tac-Toe',
     'Maze Game',
     'Mouseover Element',
     'Login Authenticator',
